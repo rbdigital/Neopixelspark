@@ -9,9 +9,9 @@
 #import "ViewController.h"
 #import "VBColorPicker.h"
 
-#define ACCESS_TOKEN @"123456"
+#define ACCESS_TOKEN @"3541ede0028a08e53c2d691731649393a17a7f4e"
 #define DEVICE_ID @"123456"
-#define FUNCTION @"color"
+#define FUNCTION @"RBDIGITAL"
 #define SPARKURL @"https://api.spark.io/v1/devices"
 
 
